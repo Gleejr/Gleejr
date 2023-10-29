@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Gleejr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gleejr/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine](https://github.com/Gleejr/Azure-creating-a-virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Gleejr/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Gleejr/azure-network-protocols)
 
